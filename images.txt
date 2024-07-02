@@ -1,2 +1,2 @@
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 haroldli/xiaoya-tvbox
+alpine
+nyanmisaka/jellyfin:latest-rockchip
